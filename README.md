@@ -1,6 +1,8 @@
 # cglm
 Causal generalized linear model Use cglm (causalreg) With (In) R Software
 
+https://www.youtube.com/watch?v=vY89ll01Ey8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
